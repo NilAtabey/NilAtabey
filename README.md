@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! My name is Nil, I'm a third-year Computer Science and Artificial Intelligence student. This is my GitHub repository where I share projects and exercises I have solved.
+Hi! My name is Nil, I'm a third-year Computer Science and Artificial Intelligence student. This is my GitHub repository where I share projects and occasionally exercises I have solved.
 
 
 ## 🌐 Socials:
