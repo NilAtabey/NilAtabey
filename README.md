@@ -1,11 +1,10 @@
 <h1 align="left">B. Nil Atabey</h1>
 
-<div style="display: inline-block; float: right; margin-left: 20px; margin-bottom: 12px; text-align: center;">
-  <img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" width="320" style="border-radius: 12px; display: block;" />
-  <p style="margin: 8px 0 0 0; font-size: 14px; color: #666;">Istanbul, Turkiye</p>
-</div>
+<table>
+<tr>
+<td>
 
-<p>I'm a third-year Computer Science and Artificial Intelligence student.</p>
+I'm a third-year Computer Science and Artificial Intelligence student.
 
 <h3>🌐 Connect With Me:</h3>
 
@@ -48,6 +47,17 @@
 </a>
 
 </div>
+
+</td>
+<td align="right">
+
+<img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" width="320" style="border-radius: 12px;" />
+<br/>
+<em>📍Istanbul, Turkiye</em>
+
+</td>
+</tr>
+</table>
 
 <h3>💻 Tech Stack:</h3>
 
