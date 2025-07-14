@@ -1,12 +1,12 @@
-<h1 align="left">B. Nil Atabey</h1>
+<div style="overflow: hidden;">
 
-<table>
-<tr>
-<td width="35%">
+<div style="float: left; width: 65%;">
+
+# B. Nil Atabey
 
 I'm a third-year Computer Science and Artificial Intelligence student.
 
-<h3>🌐 Connect With Me:</h3>
+### 🌐 Connect With Me:
 
 <div style="display: flex; flex-wrap: wrap; gap: 8px;">
 
@@ -48,19 +48,9 @@ I'm a third-year Computer Science and Artificial Intelligence student.
 
 </div>
 
-</td>
-<td width="65%" align="right">
+### 💻 Tech Stack:
 
-<img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" width="320" style="border-radius: 12px;" />
-<br/>
-<em>Istanbul, Turkiye</em>
-
-</td>
-</tr>
-</table>
-
-<h3>💻 Tech Stack:</h3>
-
+<!-- Programming Languages -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=&logoColor=white" alt="Java" />
@@ -74,6 +64,7 @@ I'm a third-year Computer Science and Artificial Intelligence student.
   <img src="https://img.shields.io/badge/Android-%3DD3C050.svg?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
 </div>
 
+<!-- Frontend / Markup -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
@@ -81,6 +72,7 @@ I'm a third-year Computer Science and Artificial Intelligence student.
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </div>
 
+<!-- Data Science / ML / AI -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white" alt="Anaconda" />
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
@@ -95,19 +87,31 @@ I'm a third-year Computer Science and Artificial Intelligence student.
   <img src="https://img.shields.io/badge/OpenCV-%23000000.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
 </div>
 
+<!-- Backend / Frameworks -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
 </div>
 
+<!-- Databases -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </div>
 
+<!-- Frameworks -->
 <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; margin-bottom: 12px;">
   <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React Native" />
   <img src="https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
+</div>
+
+</div>
+
+<div style="float: right; width: 30%; margin-left: 20px;">
+  <img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" style="width: 100%; border-radius: 12px;" />
+</div>
+
+
 </div>
