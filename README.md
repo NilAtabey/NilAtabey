@@ -1,6 +1,9 @@
 <h1 align="left">B. Nil Atabey</h1>
 
-<img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" align="right" width="320" style="border-radius: 12px; margin-left: 20px; margin-bottom: 12px;" />
+<div style="float: right; width: 320px; margin-left: 20px; margin-bottom: 12px; text-align: center;">
+  <img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" style="border-radius: 12px; width: 100%;" />
+  <p style="margin-top: 6px; font-size: 14px; color: #666;">📍 Istanbul, Turkiye</p>
+</div>
 
 <p>I'm a third-year Computer Science and Artificial Intelligence student.</p>
 
