@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td>
+<td width="35%">
 
 I'm a third-year Computer Science and Artificial Intelligence student.
 
@@ -49,11 +49,11 @@ I'm a third-year Computer Science and Artificial Intelligence student.
 </div>
 
 </td>
-<td align="right">
+<td width="65%" align="right">
 
 <img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" width="320" style="border-radius: 12px;" />
 <br/>
-<em>📍Istanbul, Turkiye</em>
+<em>Istanbul, Turkiye</em>
 
 </td>
 </tr>
