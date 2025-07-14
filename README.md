@@ -108,10 +108,4 @@ I'm a third-year Computer Science and Artificial Intelligence student.
 </div>
 
 </div>
-
-<div style="float: right; width: 30%; margin-left: 20px;">
-  <img src="https://i.imgur.com/1zR6Oy6.jpeg" alt="Istanbul, Turkiye" style="width: 100%; border-radius: 12px;" />
-</div>
-
-
 </div>
